@@ -30,7 +30,7 @@ Primary.args = {
 
 export const Secondary = Template.bind({});
 Secondary.args = {
-  label: 'Button',
+  label: 'Secondary Button',
 };
 
 export const Large = Template.bind({});
